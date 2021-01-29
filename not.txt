@@ -1,0 +1,16 @@
+Instalaçoes usadas
+npx create-react-app netflix-react-app
+
+Apis 
+https://www.themoviedb.org/u/fernanndosenna
+http://jsonviewer.stack.hu/
+http://resttesttest.com/
+
+instalacao do material ui para icones
+
+npm install @material-ui/core
+npm install @material-ui/icons
+
+material-ui.com/pt/components/icons/
+
+//parei em 2.40  hrs de video
